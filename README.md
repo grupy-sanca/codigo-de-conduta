@@ -1,6 +1,6 @@
 ## Código de Conduta do grupy-sanca
 
-O Sanca grupy-sanca procura criar um ambiente aconchegante para todas as pessoas discutirem, ensinarem e aprenderem, independente de escolaridade, idade, etnia, gênero, sexo, orientação sexual, religião, aparência física, deficiências. Queremos que as experiências em nosso ambiente sejam agradáveis e gratificantes. Desse modo, espera-se que todos os participantes se comportem com respeito mútuo e tolerância.
+O grupy-sanca procura criar um ambiente aconchegante para todas as pessoas discutirem, ensinarem e aprenderem, independente de escolaridade, idade, etnia, gênero, sexo, orientação sexual, religião, aparência física, deficiências. Queremos que as experiências em nosso ambiente sejam agradáveis e gratificantes. Desse modo, espera-se que todos os participantes se comportem com respeito mútuo e tolerância.
 
 Todos os membros do grupy-sanca têm obrigação de seguir esse Código de Conduta, assim como todos os participantes das atividades neste ambiente. Isso se aplica aos eventos e reuniões do hackerspace e também aos canais de comunicação e atividades virtuais.
 
@@ -20,10 +20,10 @@ Agradecemos por ajudar a construir um lugar aconchegante, confortável e amigáv
 
 Esse código de conduta foi baseado nos seguintes artigos e códigos de conduta:
 
-- [https://dzone.com/articles/every-free-software-community-needs-a-code-of-cond](¡¡artigo muito bom sobre o assunto!!)
-- [https://iteratehackerspace.com/#code-of-conduct](Iterate Hackerspace - Code  of Conduct)
-- [https://ballarathackerspace.org.au/code-of-conduct](Ballarat Hackerspace -  Code of Conduct)
-- [https://garoa.net.br/wiki/Blog:Anúncios/Be_Excellent_to_Each_Other](Garoa -  Be Excellent to Each Other)
-- [https://sshchicago.org/about-us/code-of-conduct/](ssh Chicago - Code of Conduct)
-- [https://github.com/sancaLUG/documentos/blob/master/codigo-conduta.pdf](sancaLUG  - Código de Conduta)
-- [https://github.com/grupy-sanca/caipyra2018/blob/master/CódigoDeConduta.md](Caipyra 2018 - Código de Conduta)
+- [¡¡artigo muito bom sobre o assunto!!](https://dzone.com/articles/every-free-software-community-needs-a-code-of-cond)
+- [Iterate Hackerspace - Code  of Conduct](https://iteratehackerspace.com/#code-of-conduct)
+- [Ballarat Hackerspace -  Code of Conduct](https://ballarathackerspace.org.au/code-of-conduct)
+- [Garoa -  Be Excellent to Each Other](https://garoa.net.br/wiki/Blog:Anúncios/Be_Excellent_to_Each_Other)
+- [ssh Chicago - Code of Conduct](https://sshchicago.org/about-us/code-of-conduct/)
+- [sancaLUG  - antigo Código de Conduta](https://github.com/sancaLUG/documentos/blob/master/codigo-conduta-installfest-old.pdf)
+- [Caipyra 2018 - Código de Conduta](https://github.com/grupy-sanca/caipyra2018/blob/master/CódigoDeConduta.md)
